@@ -1,0 +1,11 @@
+# Ignore files and directories
+*.pyc
+__pycache__/
+venv/
+
+2. **.gitignore**:
+.DS_Store
+.idea/
+.vscode/
+.env
+venv/
